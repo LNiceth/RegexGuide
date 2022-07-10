@@ -1,4 +1,4 @@
-![title](img\title.png)
+<img src="img/title.png" width="800">
 
 
 ## Summary
